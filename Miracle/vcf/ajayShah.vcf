@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Ajay Shah
+N;CHARSET=UTF-8:Shah;Ajay;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:homekey123@gmail.com
+TEL;TYPE=CELL:4168092555
+TITLE;CHARSET=UTF-8:Broker of Record
+ORG;CHARSET=UTF-8:Homelife Miracle Realty Ltd
+URL;type=WORK;CHARSET=UTF-8:www.homelifemiracle.com
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/miraclerealty.homelife/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/homelife.miracle/
+REV:2021-12-07T21:47:19.481Z
+END:VCARD
