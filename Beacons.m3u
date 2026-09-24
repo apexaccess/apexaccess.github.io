@@ -1,0 +1,7 @@
+#EXTM3U
+#PLAYLIST:Beacons
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1,Beacons
+rtsp://homeassistant:KETANhome1!@rtsp://beacons.camdvr.org:8554/Streaming/Channels/001
+
