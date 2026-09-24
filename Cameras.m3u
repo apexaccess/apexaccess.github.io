@@ -1,0 +1,7 @@
+#EXTM3U
+#PLAYLIST:Cameras
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1,Channel zero
+rtsp://homeassistant:KETANhome1!@10.2.88.122:554/Streaming/Channels/001
+
